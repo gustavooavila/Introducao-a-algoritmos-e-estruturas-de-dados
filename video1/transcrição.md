@@ -1,15 +1,20 @@
-Bem galera, meu nome é Gustavo, e eu vou falar sobre algoritmos.
-Algoritmo é um conjunto de instruções que leva a resolução de um problema.
-você quer fazer um bolo? Você segue a receita.
-A receita é um algoritmo, e seu resultado é o bolo.
-Em computação há varias formas de representar um algoritmo.
-Você pode fazer um diagrama, conhecido como fluxograma.
-Você pode fazer um pseudocódigo.
-Ou simplesmente escrever um programa.
-Para escrever um programa é nescessario utilizar uma linguagem de programação.
-Uma linguagem de programação, de acordo com o Wikipedia, "É um conjunto de regras sintáticas e semânticas usadas para definir um programa de computador".
-Ou seja a máquina precisa da receita do bolo em uma linguagem que ela entenda.
-Existem inumeras linguagens de programação.
-Mas em nossos videos iremos utilizar apenas a linguagem C.
-Bem eu acho que por enquanto é isso
-No próximo video falaremos sobre memória, variaveis e alocação de memória.
+Olá pessoal, eu estarei falando sobre programação na linguagem C.  
+Um programa em C é composto por funções.  
+A função principal em qualquer programa em C chama-se main.  
+No exemplo que está sendo mostrado, nós temos a declaração de uma variável do tipo inteiro, chamada "a".  
+As variáveis podem ser de vários tipos, entre eles:  
+  - Char : que representa letras e símbolos.
+  - Int : que representa inteiros.
+  - Float e Double : que representa números com vírgula
+
+As variáveis devem ser identificadas por um nome.  
+Mas esse nome deve seguir alguns padrões.  
+Iniciando sempre por letra ou underline.  
+Alem disso não devem ser utilizadas as palavras reservadas como nome de variáveis.  
+A linguagem C é case-sensitive ou seja, ela respeita a diferença entre letras maiúsculas e minúsculas.  
+Bem pessoal, esse era um vídeo curto, apenas para terem uma noção de como iremos abordar esse assunto.  
+Ao decorrer do curso iremos postar mais vídeos.  
+Então clica nesse botão de like e "subscreva-se".  
+O conteúdo deste vídeo estará disponível em nosso repositório no github.  
+O link você encontra na descrição do vídeo.  
+Um abraço no coração e até a próxima! :D  
