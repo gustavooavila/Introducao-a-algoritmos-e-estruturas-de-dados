@@ -4,6 +4,8 @@ este repositório tem o intuito de auxiliar estudantes a entender a disciplina d
 
 este projeto está sendo desenvolvido pelos seguintes estudantes, do curso Bacharelado em Sistemas de Informação, da FURG(Universidade Federal de Rio Grande):
 
-   - Cainã Rodrigues.
-   - Gustavo Oliveira de Avila.
-   - os outros ... whatever nóis edita depois huehue.
+   - Bruno Costa
+   - Cainã Rodrigues
+   - Gustavo Oliveira
+   - Lethierry Machado
+   - Thiago Copello
